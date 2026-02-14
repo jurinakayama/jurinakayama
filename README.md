@@ -6,6 +6,7 @@ Welcome to my page! I'm a newly graduated Applied & Computational Mathematics st
 
 ## 👩‍💻 Me as a Data Scientist
 
+| :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) |
 | **Visualization** | 'Tableau', 'PowerBI' |
 | **Libraries** | 'Pandas', 'NumPy', 'Scikit-Learn', 'Matplotlib', 'TensorFlow', 'Seaborn' |
