@@ -4,7 +4,8 @@
 
 Welcome to my page! I'm a newly graduated Applied & Computational Mathematics student from UC Irvine specializing in Data Science. 
 
-## 👩‍💻 Me as a Data Scientist
+
+### 👩‍💻 Me as a Data Scientist
 
 |  |  |
 | :--- | :--- |
@@ -14,14 +15,16 @@ Welcome to my page! I'm a newly graduated Applied & Computational Mathematics st
 
 Below are my data science, analytics, and machine learning projects. 
 
-## 📈 Projects
 
-### []
+### 📈 Projects
+
+#### []
 * **Question:**
 * **Solution:**
 * **Insight:**
 * **Repository:** 
 
-## 📫 Reach Me At:
+
+### 📫 Reach Me At:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jurinakayama)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jurin2023@gmail.com)
