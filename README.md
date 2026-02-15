@@ -1,4 +1,4 @@
-# Hello 😁, I'm Juri Nakayama (she/her)
+# Hello, I am Juri Nakayama
 
 ### Entry Level Data Scientist | Open to Learning  | 
 
