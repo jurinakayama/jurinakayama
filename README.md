@@ -24,6 +24,12 @@ Below are my data science, analytics, and machine learning projects.
 * **Insight:** The model showed that around 60% of the retailer's catalog that was analyzed was elastic, meaning that it was highly sensitive to price. By modeling out demand curves for products, the agent showed that price reductions that follow strategical analysis on those items result in higher total revenue. Additionally, for inelastic items, the agent shows that the products can safely support higher profit margins. 
 * **Repository:** [`github.com/jurinakayama/dynamic-pricing-agent`]([https](https://github.com/jurinakayama/dynamic-pricing-agent))
 
+#### [Finance RAG Chat](https://github.com/jurinakayama/finance-rag-chat)
+* **Question:**
+* **Solution:**
+* **Insight:**
+* **Repository:**
+
 ### 📫 Reach Me At:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jurinakayama)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jurin2023@gmail.com)
