@@ -1,6 +1,6 @@
 # Hello, I am Juri Nakayama
 
-### Entry Level Data Scientist | Open to Learning  | 
+### Entry Level Data Scientist
 
 Welcome to my page! I'm a newly graduated Applied & Computational Mathematics student from UC Irvine specializing in Data Science. 
 
